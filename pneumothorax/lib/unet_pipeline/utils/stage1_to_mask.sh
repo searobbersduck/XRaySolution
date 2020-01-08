@@ -1,1 +1,0 @@
-python3 utils/rle2pseudo.py -out_path ../input/dataset1024/stage1_answers -sub_path ../input/stage1_answers.csv -n_threads 8
