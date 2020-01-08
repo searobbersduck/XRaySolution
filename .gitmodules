@@ -1,0 +1,3 @@
+[submodule "pneumothorax/lib/pneumothorax-segmentation"]
+	path = pneumothorax/lib/pneumothorax-segmentation
+	url = https://github.com/sneddy/pneumothorax-segmentation.git
