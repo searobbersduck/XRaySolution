@@ -10,8 +10,10 @@ __pycache__/
 # 
 data
 xxx
-
-
+dr_cls_yyy
+basic/train/dr_cls_yyy
+basic/convert_model/export_*
+basic/convert_model/trt_*
 
 # Distribution / packaging
 .Python

@@ -1,0 +1,14 @@
+#CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file config_dr_2d.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_zhudongmai.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_zhanwei.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_shibian.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_xinying.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_shuhou.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_qixiong.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_yanxing.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_xianwei.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_wenli.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_feibuzhang.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_feidapao.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_feiqizhong.json
+CUDA_VISIBLE_DEVICES=3,4,5,7 python train_dr.py --config_file ./config/config_dr_xiongqiangjiye.json
