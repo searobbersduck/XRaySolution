@@ -1,3 +1,15 @@
 [submodule "pneumothorax/lib/pneumothorax-segmentation"]
 	path = pneumothorax/lib/pneumothorax-segmentation
 	url = https://github.com/sneddy/pneumothorax-segmentation.git
+[submodule "ray8/lib/chexnet"]
+	path = ray8/lib/chexnet
+	url = https://github.com/zoogzog/chexnet.git
+[submodule "cam/lib/pytorch-grad-cam"]
+	path = cam/lib/pytorch-grad-cam
+	url = https://github.com/jacobgil/pytorch-grad-cam.git
+[submodule "cam/lib/cam1"]
+	path = cam/lib/cam1
+	url = https://github.com/jacobgil/pytorch-grad-cam.git
+[submodule "cam/lib/cam2"]
+	path = cam/lib/cam2
+	url = https://github.com/kazuto1011/grad-cam-pytorch.git
