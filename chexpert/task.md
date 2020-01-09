@@ -1,0 +1,11 @@
+# chexpert dataset 相关任务
+- [ ] chexpert相关paper收集、阅读、整理ppt
+- [ ] chexpert数据分析
+- [ ] 复现已有开源代码结果
+  - [ ] chexnet
+  - [ ] chexnext
+  - [ ] todo:
+- [ ] 尝试各种数据预处理方式在DR数据上的效果，肉眼查看
+  - [ ] 查找并查看是否在不同病种上应当采用不同的预处理方式
+  - [ ] todo：
+- [ ] 清洗chexpert数据
