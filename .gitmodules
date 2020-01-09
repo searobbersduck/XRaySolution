@@ -13,3 +13,6 @@
 [submodule "cam/lib/cam2"]
 	path = cam/lib/cam2
 	url = https://github.com/kazuto1011/grad-cam-pytorch.git
+[submodule "chexpert/lib/jf"]
+	path = chexpert/lib/jf
+	url = https://github.com/jfhealthcare/Chexpert.git
