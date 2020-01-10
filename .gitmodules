@@ -16,3 +16,6 @@
 [submodule "chexpert/lib/jf"]
 	path = chexpert/lib/jf
 	url = https://github.com/searobbersduck/Chexpert.git
+[submodule "chexpert/lib/Chexpert"]
+	path = chexpert/lib/Chexpert
+	url = https://github.com/searobbersduck/Chexpert.git
