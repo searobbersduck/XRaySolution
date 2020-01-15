@@ -5,4 +5,7 @@
 
 
 ## 文件说明
-`0.test_cam_api.ipynb`：如何调用cam api绘制cam图
+1. `0.test_cam_api.ipynb`：如何调用cam api绘制cam图
+
+2. `0.test_cam_api_dsn121.ipynb`
+    * 绘制chestx-ray8 baseline模型各病灶的heatmap图

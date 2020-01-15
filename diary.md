@@ -10,8 +10,8 @@
 - [x] 自测新训练的DR部位识别模型
   - [x]  自测效果（和上一版DR部位识别模型测试集和预处理一样，测试集未做过增强）：Accuracy:0.997, 具体见: [DR部位识别模型自测](http://git.do.proxima-ai.com/cn.aitrox.ai/xrayproduct/blob/master/dr_pos_recog/traintest_model-20200114.ipyn)
 - [ ] 测试跑通ray8的开源代码
-  - [ ] 对比移植code
-  - [ ] 同步修改readme.md
+  - [x] 对比移植code, 能够训练和绘制heatmap图
+  - [x] 同步修改readme.md
   - [ ] 跑通测试代码
     - [ ] 显存溢出
   - [x] 跑通生成cam的代码
