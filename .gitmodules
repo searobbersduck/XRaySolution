@@ -1,6 +1,3 @@
-[submodule "pneumothorax/lib/pneumothorax-segmentation"]
-	path = pneumothorax/lib/pneumothorax-segmentation
-	url = https://github.com/sneddy/pneumothorax-segmentation.git
 [submodule "cam/lib/pytorch-grad-cam"]
 	path = cam/lib/pytorch-grad-cam
 	url = https://github.com/jacobgil/pytorch-grad-cam.git
