@@ -13,3 +13,6 @@
 [submodule "ray8/lib/chexnet"]
 	path = ray8/lib/chexnet
 	url = https://github.com/searobbersduck/chexnet.git
+[submodule "pneumothorax/lib/pneumothorax-segmentation"]
+	path = pneumothorax/lib/pneumothorax-segmentation
+	url = https://github.com/searobbersduck/pneumothorax-segmentation.git
