@@ -13,3 +13,6 @@
 [submodule "chexpert/lib/Chexpert"]
 	path = chexpert/lib/Chexpert
 	url = https://github.com/searobbersduck/Chexpert.git
+[submodule "ray8/lib/chexnet"]
+	path = ray8/lib/chexnet
+	url = https://github.com/searobbersduck/chexnet.git
