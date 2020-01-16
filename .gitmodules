@@ -16,3 +16,6 @@
 [submodule "pneumothorax/lib/pneumothorax-segmentation"]
 	path = pneumothorax/lib/pneumothorax-segmentation
 	url = https://github.com/searobbersduck/pneumothorax-segmentation.git
+[submodule "reportai/lib/MedicalReportGeneration"]
+	path = reportai/lib/MedicalReportGeneration
+	url = https://github.com/searobbersduck/MedicalReportGeneration.git
